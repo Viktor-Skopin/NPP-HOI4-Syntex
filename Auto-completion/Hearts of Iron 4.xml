@@ -1026,6 +1026,7 @@
 		<KeyWord name="fleet"/>
 		<KeyWord name="focus"/>
 		<KeyWord name="focus_progress"/>
+		<KeyWord name="focus_tree"/>
 		<KeyWord name="folder"/>
 		<KeyWord name="for_countries"/>
 		<KeyWord name="for_each_loop"/>
