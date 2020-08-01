@@ -740,6 +740,7 @@
 		<KeyWord name="election_frequency"/>
 		<KeyWord name="elections_allowed"/>
 		<KeyWord name="else"/>
+		<KeyWord name="else_if"/>
 		<KeyWord name="emission"/>
 		<KeyWord name="emitter_pitch"/>
 		<KeyWord name="emitter_type"/>
@@ -2690,6 +2691,5 @@
 		<KeyWord name="year"/>
 		<KeyWord name="zoom"/>
 		<KeyWord name="zoom_speed"/>
-		<KeyWord name=""/>
 	</AutoComplete>
 </NotepadPlus>
